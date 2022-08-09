@@ -1,0 +1,195 @@
+#background { /*MAIN PAGE*/
+    background-color: hsl(181, 66%, 32%);
+    font-family: Arial, sans-serif;
+}
+
+.Odin-Title {
+    text-align: center;
+    color: rgb(197, 212, 37);
+}
+
+.Recipe-Photo {
+    width: 1000px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: 20px;
+}
+
+#Recipes-text {
+    text-align: center;
+    color: hsl(116, 78%, 75%);
+}
+
+.container {
+    text-align: center;
+}
+
+.ul-list {
+    display: inline-block;
+    text-align: left;
+    color: hsl(116, 78%, 75%);
+}
+
+.one, .two, .three {
+    color: hsl(116, 78%, 75%);
+}
+
+.link-main, .link-main-two, .link-main-three {
+    color: yellow;
+}
+
+/*********************************************/
+
+#background-two { /*PICCATA SUB-PAGE*/
+    font-family: Arial, sans-serif;
+    background-color: hsl(65, 66%, 49%);
+}
+
+.Piccata-title {
+    color: hsl(0, 75%, 49%);
+    text-align: center;
+}
+
+.Piccata-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+    border-width: 20px;
+    border-style: solid;
+}
+
+#Description-text {
+    color: hsl(181, 58%, 23%);
+    font-family: Cursive;
+}
+
+.container2 {
+    font-size: 18px;
+    color: rgb(17, 8, 86); 
+}
+
+#Ingredients-text {
+    color: hsl(181, 58%, 23%);
+    font-family: Cursive;
+}
+
+.PiccataCon {
+    color: rgb(17, 8, 86);
+    font-size: 18px;
+}
+
+#Steps-text {
+    color: hsl(181, 58%, 23%);
+    font-family: Cursive;
+}
+
+.PiccataConTwo {
+    color: rgb(17, 8, 86);
+    font-size: 18px;
+}
+
+/*********************************************/
+
+#background-three { /*KIELBASA SUB-PAGE*/
+    font-family: Arial, sans-serif;
+    background-color: hsl(120, 94%, 66%);
+}
+
+.Kielbasa-title {
+    text-align: center;
+    color: hsl(274, 51%, 31%);
+}
+
+.Kielbasa-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+    border-width: 20px;
+    border-style: solid;
+}
+
+#Description-Kielbasa {
+    font-family: Cursive;
+    color: hsl(9, 100%, 43%);
+}
+
+.container-kielbasa {
+    font-size: 18px;
+    color: hsl(21, 90%, 27%);
+}
+
+#Ingredients-kielbasa {
+    color: hsl(9, 100%, 43%);
+    font-family: Cursive;
+}
+
+.ul-kielbasa {
+    font-size: 18px;
+    color: hsl(21, 90%, 27%);
+}
+
+#Steps-Kielbasa {
+    color: hsl(9, 100%, 43%);
+    font-family: Cursive;
+}
+
+.ol-kielbasa {
+    color: hsl(21, 90%, 27%);
+    font-size: 18px;
+}
+
+/***********************************************/
+
+#background-four { /*HARISSA SUB-PAGE*/
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 89%, 58%);
+}
+
+.Harissa-title {
+    text-align: center;
+    color: hsl(259, 28%, 79%);
+}
+
+.Harissa-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: auto;
+    border-style: solid;
+    border-width: 20px;
+}
+
+#Description-harissa {
+    color: hsl(62, 51%, 67%);
+    font-family: Cursive;
+}
+
+.container-harissa {
+    font-size: 18px;
+    color: hsl(160, 40%, 62%);
+}
+
+#Ingredients-harissa {
+    color: hsl(62, 51%, 67%);
+    font-family: Cursive;
+}
+
+.ul-harissa {
+    font-size: 18px;
+    color: hsl(160, 40%, 62%);
+}
+
+#Steps-harissa {
+    color: hsl(62, 51%, 67%);
+    font-family: Cursive;
+}
+
+.ol-harissa {
+    font-size: 18px;
+    color: hsl(160, 40%, 62%);
+}
